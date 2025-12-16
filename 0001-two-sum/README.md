@@ -38,7 +38,7 @@
 </ul>
 
 <p>&nbsp;</p>
-<h4>BruteForce Solution</h4>
+<h4>BruteForce Solution:</h4>
 <pre>class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
