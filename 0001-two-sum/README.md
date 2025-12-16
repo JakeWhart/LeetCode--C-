@@ -39,7 +39,7 @@
 
 <p>&nbsp;</p>
 <strong>Follow-up:&nbsp;</strong>Can you come up with an algorithm that is less than <code>O(n<sup>2</sup>)</code><font face="monospace">&nbsp;</font>time complexity?
-<p>class Solution {
+<pre>class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
     for(int i = 0; i < nums.size();i++){
@@ -50,4 +50,4 @@ public:
             }
         } 
   return{};  }
-};</p>
+};</pre>
