@@ -1,6 +1,7 @@
 class Solution {
 public:
     int fib(int n) {
+        if(n==1) return 1;
         int fib = 0;
         int prev = 0;
         int prev2 = 1;
