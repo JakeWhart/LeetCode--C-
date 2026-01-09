@@ -19,4 +19,3 @@ public:
      }   
   return max_area;  }
 };
-auto init = atexit([]() { ofstream("display_runtime.txt") << "0";});
