@@ -18,4 +18,8 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/JakeWhart/LeetCode--C-/tree/main/0001-two-sum/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0263-ugly-number](https://github.com/JakeWhart/LeetCode--C-/tree/main/0263-ugly-number/) | Easy |
 <!---LeetCode Topics End-->
