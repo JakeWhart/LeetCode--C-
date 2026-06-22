@@ -18,6 +18,7 @@ Happy Coding! 💻✨
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/JakeWhart/LeetCode--C-/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,10 +35,12 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,4 +50,8 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
