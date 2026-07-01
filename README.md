@@ -16,6 +16,7 @@ Happy Coding! 💻✨
 | [0001-two-sum](https://github.com/JakeWhart/LeetCode--C-/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JakeWhart/LeetCode--C-/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
 | [0498-diagonal-traverse](https://github.com/JakeWhart/LeetCode--C-/tree/main/0498-diagonal-traverse/) | Medium |
 | [0661-image-smoother](https://github.com/JakeWhart/LeetCode--C-/tree/main/0661-image-smoother/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
@@ -36,6 +37,7 @@ Happy Coding! 💻✨
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -46,6 +48,7 @@ Happy Coding! 💻✨
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JakeWhart/LeetCode--C-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
