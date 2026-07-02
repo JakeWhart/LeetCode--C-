@@ -17,6 +17,7 @@ Happy Coding! 💻✨
 | [0033-search-in-rotated-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/JakeWhart/LeetCode--C-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/JakeWhart/LeetCode--C-/tree/main/0217-contains-duplicate/) | Easy |
 | [0498-diagonal-traverse](https://github.com/JakeWhart/LeetCode--C-/tree/main/0498-diagonal-traverse/) | Medium |
 | [0661-image-smoother](https://github.com/JakeWhart/LeetCode--C-/tree/main/0661-image-smoother/) | Easy |
@@ -42,6 +43,7 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -53,6 +55,7 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/JakeWhart/LeetCode--C-/tree/main/0217-contains-duplicate/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1051-height-checker](https://github.com/JakeWhart/LeetCode--C-/tree/main/1051-height-checker/) | Easy |
