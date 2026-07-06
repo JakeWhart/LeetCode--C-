@@ -35,6 +35,7 @@ Happy Coding! 💻✨
 | [0073-set-matrix-zeroes](https://github.com/JakeWhart/LeetCode--C-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/JakeWhart/LeetCode--C-/tree/main/0217-contains-duplicate/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/JakeWhart/LeetCode--C-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/JakeWhart/LeetCode--C-/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +83,7 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/JakeWhart/LeetCode--C-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/JakeWhart/LeetCode--C-/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
