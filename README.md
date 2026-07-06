@@ -45,6 +45,7 @@ Happy Coding! 💻✨
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/JakeWhart/LeetCode--C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -82,6 +83,7 @@ Happy Coding! 💻✨
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/JakeWhart/LeetCode--C-/tree/main/0125-valid-palindrome/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/JakeWhart/LeetCode--C-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JakeWhart/LeetCode--C-/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Matrix
