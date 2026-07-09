@@ -87,6 +87,7 @@ Happy Coding! 💻✨
 | [0125-valid-palindrome](https://github.com/JakeWhart/LeetCode--C-/tree/main/0125-valid-palindrome/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/JakeWhart/LeetCode--C-/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/JakeWhart/LeetCode--C-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1678-goal-parser-interpretation](https://github.com/JakeWhart/LeetCode--C-/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/JakeWhart/LeetCode--C-/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JakeWhart/LeetCode--C-/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Matrix
