@@ -83,6 +83,7 @@ Happy Coding! 💻✨
 | ------- | ------- |
 | [1051-height-checker](https://github.com/JakeWhart/LeetCode--C-/tree/main/1051-height-checker/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/JakeWhart/LeetCode--C-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1603-design-parking-system](https://github.com/JakeWhart/LeetCode--C-/tree/main/1603-design-parking-system/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -103,8 +104,10 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/JakeWhart/LeetCode--C-/tree/main/0498-diagonal-traverse/) | Medium |
+| [1603-design-parking-system](https://github.com/JakeWhart/LeetCode--C-/tree/main/1603-design-parking-system/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JakeWhart/LeetCode--C-/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [1603-design-parking-system](https://github.com/JakeWhart/LeetCode--C-/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
