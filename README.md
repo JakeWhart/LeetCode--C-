@@ -19,6 +19,7 @@ Happy Coding! 💻✨
 | [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/JakeWhart/LeetCode--C-/tree/main/0217-contains-duplicate/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/JakeWhart/LeetCode--C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0498-diagonal-traverse](https://github.com/JakeWhart/LeetCode--C-/tree/main/0498-diagonal-traverse/) | Medium |
 | [0661-image-smoother](https://github.com/JakeWhart/LeetCode--C-/tree/main/0661-image-smoother/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
@@ -69,6 +70,7 @@ Happy Coding! 💻✨
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/JakeWhart/LeetCode--C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/JakeWhart/LeetCode--C-/tree/main/1732-find-the-highest-altitude/) | Easy |
 ## Binary Search
@@ -101,4 +103,8 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0498-diagonal-traverse](https://github.com/JakeWhart/LeetCode--C-/tree/main/0498-diagonal-traverse/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/JakeWhart/LeetCode--C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 <!---LeetCode Topics End-->
