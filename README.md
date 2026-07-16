@@ -41,6 +41,7 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/JakeWhart/LeetCode--C-/tree/main/0263-ugly-number/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/JakeWhart/LeetCode--C-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -113,4 +114,8 @@ Happy Coding! 💻✨
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/JakeWhart/LeetCode--C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1603-design-parking-system](https://github.com/JakeWhart/LeetCode--C-/tree/main/1603-design-parking-system/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/JakeWhart/LeetCode--C-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
