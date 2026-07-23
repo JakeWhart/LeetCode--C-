@@ -26,6 +26,7 @@ Happy Coding! 💻✨
 | [1051-height-checker](https://github.com/JakeWhart/LeetCode--C-/tree/main/1051-height-checker/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/JakeWhart/LeetCode--C-/tree/main/1732-find-the-highest-altitude/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/JakeWhart/LeetCode--C-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JakeWhart/LeetCode--C-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -36,6 +37,7 @@ Happy Coding! 💻✨
 | [0073-set-matrix-zeroes](https://github.com/JakeWhart/LeetCode--C-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0217-contains-duplicate](https://github.com/JakeWhart/LeetCode--C-/tree/main/0217-contains-duplicate/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/JakeWhart/LeetCode--C-/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/JakeWhart/LeetCode--C-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JakeWhart/LeetCode--C-/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -87,6 +89,7 @@ Happy Coding! 💻✨
 | [1051-height-checker](https://github.com/JakeWhart/LeetCode--C-/tree/main/1051-height-checker/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/JakeWhart/LeetCode--C-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1603-design-parking-system](https://github.com/JakeWhart/LeetCode--C-/tree/main/1603-design-parking-system/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/JakeWhart/LeetCode--C-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## String
 | Problem Name | Difficulty |
