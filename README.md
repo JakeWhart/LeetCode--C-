@@ -24,6 +24,7 @@ Happy Coding! 💻✨
 | [0661-image-smoother](https://github.com/JakeWhart/LeetCode--C-/tree/main/0661-image-smoother/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1051-height-checker](https://github.com/JakeWhart/LeetCode--C-/tree/main/1051-height-checker/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/JakeWhart/LeetCode--C-/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/JakeWhart/LeetCode--C-/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -69,6 +70,7 @@ Happy Coding! 💻✨
 | [0217-contains-duplicate](https://github.com/JakeWhart/LeetCode--C-/tree/main/0217-contains-duplicate/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1051-height-checker](https://github.com/JakeWhart/LeetCode--C-/tree/main/1051-height-checker/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JakeWhart/LeetCode--C-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -121,4 +123,8 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JakeWhart/LeetCode--C-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
