@@ -53,6 +53,7 @@ Happy Coding! 💻✨
 | [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/JakeWhart/LeetCode--C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/JakeWhart/LeetCode--C-/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/JakeWhart/LeetCode--C-/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Greedy
@@ -127,4 +128,8 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0876-middle-of-the-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 <!---LeetCode Topics End-->
