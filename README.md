@@ -56,6 +56,7 @@ Happy Coding! 💻✨
 | [0876-middle-of-the-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/JakeWhart/LeetCode--C-/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -132,4 +133,5 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
