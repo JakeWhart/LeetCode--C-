@@ -16,13 +16,7 @@ class Solution {
             size++;
             temp = temp.next;
         }
-        int middle = 0;
-        if(size %2 == 0){
-            middle = (size / 2);
-        }
-        else{
-            middle = size / 2;
-        }
+        int middle = size / 2;
         ListNode a = head;
         int s = 0;
         while(s != middle){
