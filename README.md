@@ -50,6 +50,7 @@ Happy Coding! 💻✨
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/JakeWhart/LeetCode--C-/tree/main/0125-valid-palindrome/) | Easy |
@@ -134,6 +135,7 @@ Happy Coding! 💻✨
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/JakeWhart/LeetCode--C-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0876-middle-of-the-linked-list/) | Easy |
