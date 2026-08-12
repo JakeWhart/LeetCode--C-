@@ -46,6 +46,7 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0263-ugly-number](https://github.com/JakeWhart/LeetCode--C-/tree/main/0263-ugly-number/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JakeWhart/LeetCode--C-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 ## Two Pointers
@@ -154,4 +155,8 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0206-reverse-linked-list/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
