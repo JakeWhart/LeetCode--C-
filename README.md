@@ -37,6 +37,7 @@ Happy Coding! 💻✨
 | [0001-two-sum](https://github.com/JakeWhart/LeetCode--C-/tree/main/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/JakeWhart/LeetCode--C-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/JakeWhart/LeetCode--C-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/JakeWhart/LeetCode--C-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0217-contains-duplicate](https://github.com/JakeWhart/LeetCode--C-/tree/main/0217-contains-duplicate/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/JakeWhart/LeetCode--C-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/JakeWhart/LeetCode--C-/tree/main/1748-sum-of-unique-elements/) | Easy |
@@ -56,6 +57,7 @@ Happy Coding! 💻✨
 | [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/JakeWhart/LeetCode--C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/JakeWhart/LeetCode--C-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/JakeWhart/LeetCode--C-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/JakeWhart/LeetCode--C-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
@@ -139,6 +141,7 @@ Happy Coding! 💻✨
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/JakeWhart/LeetCode--C-/tree/main/0141-linked-list-cycle/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/JakeWhart/LeetCode--C-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
