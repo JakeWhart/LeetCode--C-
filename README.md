@@ -55,6 +55,7 @@ Happy Coding! 💻✨
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0061-rotate-list/) | Medium |
 | [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
+| [0086-partition-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/JakeWhart/LeetCode--C-/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/JakeWhart/LeetCode--C-/tree/main/0141-linked-list-cycle/) | Easy |
@@ -142,6 +143,7 @@ Happy Coding! 💻✨
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0061-rotate-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/JakeWhart/LeetCode--C-/tree/main/0141-linked-list-cycle/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/JakeWhart/LeetCode--C-/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0206-reverse-linked-list/) | Easy |
