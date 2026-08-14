@@ -141,6 +141,7 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/JakeWhart/LeetCode--C-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0061-rotate-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0086-partition-list/) | Medium |
@@ -157,6 +158,7 @@ Happy Coding! 💻✨
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/JakeWhart/LeetCode--C-/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/JakeWhart/LeetCode--C-/tree/main/0206-reverse-linked-list/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
