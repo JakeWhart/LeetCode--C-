@@ -23,6 +23,7 @@ Happy Coding! 💻✨
 | [0498-diagonal-traverse](https://github.com/JakeWhart/LeetCode--C-/tree/main/0498-diagonal-traverse/) | Medium |
 | [0661-image-smoother](https://github.com/JakeWhart/LeetCode--C-/tree/main/0661-image-smoother/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/JakeWhart/LeetCode--C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/JakeWhart/LeetCode--C-/tree/main/1051-height-checker/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JakeWhart/LeetCode--C-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -95,6 +96,7 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/JakeWhart/LeetCode--C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JakeWhart/LeetCode--C-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Counting Sort
