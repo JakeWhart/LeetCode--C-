@@ -36,6 +36,7 @@ Happy Coding! 💻✨
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JakeWhart/LeetCode--C-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JakeWhart/LeetCode--C-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Happy Coding! 💻✨
 | [1189-maximum-number-of-balloons](https://github.com/JakeWhart/LeetCode--C-/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/JakeWhart/LeetCode--C-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/JakeWhart/LeetCode--C-/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [3718-smallest-missing-multiple-of-k](https://github.com/JakeWhart/LeetCode--C-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
