@@ -34,6 +34,7 @@ Happy Coding! 💻✨
 | [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JakeWhart/LeetCode--C-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
