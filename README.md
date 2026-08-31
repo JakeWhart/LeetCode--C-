@@ -33,6 +33,7 @@ Happy Coding! 💻✨
 | [1748-sum-of-unique-elements](https://github.com/JakeWhart/LeetCode--C-/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JakeWhart/LeetCode--C-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 ## Hash Table
@@ -76,6 +77,7 @@ Happy Coding! 💻✨
 | [0680-valid-palindrome-ii](https://github.com/JakeWhart/LeetCode--C-/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/JakeWhart/LeetCode--C-/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JakeWhart/LeetCode--C-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
