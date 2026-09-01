@@ -18,6 +18,7 @@ Happy Coding! 💻✨
 | [0035-search-insert-position](https://github.com/JakeWhart/LeetCode--C-/tree/main/0035-search-insert-position/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/JakeWhart/LeetCode--C-/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/JakeWhart/LeetCode--C-/tree/main/0075-sort-colors/) | Medium |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/JakeWhart/LeetCode--C-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/JakeWhart/LeetCode--C-/tree/main/0217-contains-duplicate/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/JakeWhart/LeetCode--C-/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -105,6 +106,7 @@ Happy Coding! 💻✨
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JakeWhart/LeetCode--C-/tree/main/0035-search-insert-position/) | Easy |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/JakeWhart/LeetCode--C-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JakeWhart/LeetCode--C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JakeWhart/LeetCode--C-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
