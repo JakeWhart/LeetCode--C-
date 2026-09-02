@@ -26,6 +26,7 @@ Happy Coding! 💻✨
 | [0303-range-sum-query-immutable](https://github.com/JakeWhart/LeetCode--C-/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0498-diagonal-traverse](https://github.com/JakeWhart/LeetCode--C-/tree/main/0498-diagonal-traverse/) | Medium |
 | [0661-image-smoother](https://github.com/JakeWhart/LeetCode--C-/tree/main/0661-image-smoother/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0948-bag-of-tokens](https://github.com/JakeWhart/LeetCode--C-/tree/main/0948-bag-of-tokens/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JakeWhart/LeetCode--C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/JakeWhart/LeetCode--C-/tree/main/1051-height-checker/) | Easy |
@@ -111,6 +112,7 @@ Happy Coding! 💻✨
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JakeWhart/LeetCode--C-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JakeWhart/LeetCode--C-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0852-peak-index-in-a-mountain-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/JakeWhart/LeetCode--C-/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/JakeWhart/LeetCode--C-/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -186,4 +188,8 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Ternary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 <!---LeetCode Topics End-->
