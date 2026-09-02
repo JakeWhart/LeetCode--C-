@@ -41,6 +41,7 @@ Happy Coding! 💻✨
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JakeWhart/LeetCode--C-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JakeWhart/LeetCode--C-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ Happy Coding! 💻✨
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JakeWhart/LeetCode--C-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/JakeWhart/LeetCode--C-/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
