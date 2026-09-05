@@ -57,6 +57,7 @@ Happy Coding! 💻✨
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/JakeWhart/LeetCode--C-/tree/main/0069-sqrtx/) | Easy |
 | [0263-ugly-number](https://github.com/JakeWhart/LeetCode--C-/tree/main/0263-ugly-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/JakeWhart/LeetCode--C-/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -111,6 +112,7 @@ Happy Coding! 💻✨
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/JakeWhart/LeetCode--C-/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/JakeWhart/LeetCode--C-/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/JakeWhart/LeetCode--C-/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/JakeWhart/LeetCode--C-/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -194,4 +196,8 @@ Happy Coding! 💻✨
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/JakeWhart/LeetCode--C-/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
