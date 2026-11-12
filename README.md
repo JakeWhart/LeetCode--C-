@@ -40,6 +40,7 @@ Happy Coding! 💻✨
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/JakeWhart/LeetCode--C-/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/JakeWhart/LeetCode--C-/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3065-minimum-operations-to-exceed-threshold-value-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/JakeWhart/LeetCode--C-/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/JakeWhart/LeetCode--C-/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/JakeWhart/LeetCode--C-/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Hash Table
